@@ -687,9 +687,7 @@ a:hover {
   pointer-events: none;
 }
 blockquote {
-  font-style: italic;
-  padding: 10px 0 10px 20px;
-  font-size: 1.09rem;
+
   position: relative;
   border-color: #b2ccd2;
   border-width: 3px;
@@ -3772,7 +3770,6 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-
 
 .italic {
   font-style: italic;
